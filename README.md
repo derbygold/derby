@@ -22,3 +22,25 @@ swift4
 example-app
 Updated on May 25
  Swift# derby
+swift
+ios
+apple
+xcode
+examples
+applications
+ios-app
+swift-language
+swift-3
+ios-swift
+swift3
+ios-ui
+ios-demo
+example-project
+hacktoberfest
+xcode-templates
+xcodeproj
+example-repo
+swift4
+example-app
+Updated on May 25
+ Swift# derby
